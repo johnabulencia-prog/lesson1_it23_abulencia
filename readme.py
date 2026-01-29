@@ -1,5 +1,6 @@
 # Python Development Calculator
 
+
 def calculations(a, b, c):
 
     if a == 1:
