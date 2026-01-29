@@ -9,7 +9,7 @@ def calculations(a, b, c):
        return b - c
 
     elif a == 3:
-    
+       return b * c # burenyuu!! (rajiv) 
     elif a == 4:
       
     else:
@@ -26,7 +26,6 @@ def Program():
     print(f"\n\n\nComputed Ammount: {calculations(option, num1, num2)}")
 
 if __name__  == "__main__":
-
     Program()
         
 
